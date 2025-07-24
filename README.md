@@ -1,4 +1,4 @@
-<img src="https://juanjesusruiztosca.wixsite.com/juanjesusxr/_files/ugd/bc6e66_4dc29cf661ca409fa8b0f97dc7c4fd0e~mv2.png" width="100%" alt="Banner XR" />
+<!-- <img src="https://juanjesusruiztosca.wixsite.com/juanjesusxr/_files/ugd/bc6e66_4dc29cf661ca409fa8b0f97dc7c4fd0e~mv2.png" width="100%" alt="Banner XR" /> -->
 
 # 👋 ¡Hola! Soy Juan Jesús Ruiz Toscano
 
