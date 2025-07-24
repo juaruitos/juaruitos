@@ -53,10 +53,14 @@ He trabajado con tecnologías como **Unity, C#, Meta Quest, WebXR**, y participa
 ## 📬 Contacto
 
 📧 juanjesusruiztoscano@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/juanjesusruiztoscano)  
-💼 [CV completo en español](https://juanjesusruiztosca.wixsite.com/juanjesusxr/cv)  
+<!--
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20profesional-blue?logo=linkedin)](https://www.linkedin.com/in/juanjesusruiztoscano/)
+-->
+<!--
+[![CV](https://img.shields.io/badge/CV-Descargar-informational?logo=adobeacrobatreader)](https://www.dropbox.com/s/xxxxx/CV_JuanJesusRuizToscano.pdf?dl=0)
+-->
 
 ---
 
-_✨ Siempre en búsqueda de nuevos desafíos donde la tecnología tenga impacto social y humano._
+_🧑‍💻 Trabajo en la intersección entre tecnología e impacto real: desarrollando experiencias inmersivas que conectan, ayudan y dejan huella._
 
