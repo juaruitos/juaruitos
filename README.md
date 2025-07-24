@@ -62,5 +62,5 @@ He trabajado con tecnologías como **Unity, C#, Meta Quest, WebXR**, y participa
 
 ---
 
-_🧑‍💻 Trabajo en la intersección entre tecnología e impacto real: desarrollando experiencias inmersivas que conectan, ayudan y dejan huella._
+_👨‍💻 Combino tecnología e impacto real, creando experiencias inmersivas que conectan, ayudan y dejan huella._
 
